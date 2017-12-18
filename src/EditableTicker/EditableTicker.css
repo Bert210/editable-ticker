@@ -1,0 +1,20 @@
+.et-main {
+    font-size: 2rem;
+    text-align: center;
+    display: inline-block;
+}
+
+.et-main button{
+    font-size: 2rem;
+    width: 20px;
+    padding: 0;
+    background-color: transparent;
+    border: none;
+}
+
+.et-main button:hover{
+    font-size: 2rem;
+    padding: 0;
+    background-color: cadetblue;
+    border: none;
+}
